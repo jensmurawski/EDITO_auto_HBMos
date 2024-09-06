@@ -2,8 +2,8 @@
 
 module load singularity
 
-CONTAINER_LOCATION="/gpfs/projects/bsc32/EDITO/containers/schism2.sif"
-CONTAINER_ARGS="/SCHISM/GBconfig/bin/pschism_PREC_EVAP_TVD-SB -v"
+CONTAINER_LOCATION="/gpfs/projects/ehpc29/EDITO/containers/processor.sif"
+CONTAINER_ARGS="from-env"
 
 singularity exec \
   "${CONTAINER_LOCATION}" \
