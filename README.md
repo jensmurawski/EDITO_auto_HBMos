@@ -7,7 +7,7 @@ modelling`. The HBMos model was successfully deployed from EDITO-Model Lab
 using Autosubmit workflow manager.   
 
 The EuroHPC project EHPC-BEN-2024B06-038 `HBM benchmarking for EDITO
-On-demand modelling` fulfills a technical milestone of the EDITO project, 
+On-demand modelling` fulfills a technical milestone of the EDITO project (task T3.3.2), 
 to configure and deploy HBMos from EDITO-Model Lab, and to run it 
 on EuroHPC (MareNostrum 5) using Singularity and Autosubmit Workflow
 manager. In the 2-nd phase of the project, the HBMos on-demand mode was run 
