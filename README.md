@@ -1,10 +1,10 @@
 # EDITO-auto-HBMos
-This project was created for the `hbm.sif` singularity container
-developed by DMI / John Lavelle. It was successfully tested 
-on MareNostrum 5 and used in the EuroHPC project EHPC-BEN-2024B06-038 
-`HBM benchmarking for EDITO On-demand modelling`. The HBMos model was
-successfully deployed from EDITO-Model Lab using Autosubmit workflow
-manager.   
+This project was created for the HBMos `processor_self_contained.sif`
+singularity container developed by DMI / John Lavelle. 
+It was successfully tested on MareNostrum 5 and used in the EuroHPC
+project EHPC-BEN-2024B06-038 `HBM benchmarking for EDITO On-demand
+modelling`. The HBMos model was successfully deployed from EDITO-Model Lab
+using Autosubmit workflow manager.   
 
 The EuroHPC project EHPC-BEN-2024B06-038 `HBM benchmarking for EDITO
 On-demand modelling` fulfills a technical milestone of the EDITO project, 
