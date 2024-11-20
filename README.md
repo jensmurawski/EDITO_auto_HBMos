@@ -1,3 +1,24 @@
+# EDITO-auto-HBMos
+This project was created for the `hbm.sif` singularity container
+developed by DMI / John Lavelle. It was successfully tested 
+on MareNostrum 5 and used in the EuroHPC project EHPC-BEN-2024B06-038 
+`HBM benchmarking for EDITO On-demand modelling`. The HBMos model was
+successfully deployed from EDITO-Model Lab using Autosubmit workflow
+manager.   
+
+The EuroHPC project EHPC-BEN-2024B06-038 `HBM benchmarking for EDITO
+On-demand modelling` fulfills a technical milestone of the EDITO project, 
+to configure and deploy HBMos from EDITO-Model Lab, and to run it 
+on EuroHPC (MareNostrum 5) using Singularity and Autosubmit Workflow
+manager. In the 2-nd phase of the project, the HBMos on-demand mode was run 
+for a number of ocean-model configurations on MareNostrum 5 using
+hybrid OpenMP-MPI paralelisations to evaluate the scalability of the code
+on the new EuroHPC infrastructure for benchmarking accessments. 
+
+The EDITO-auto-HBMos project is structured like the auto-schism2 project
+which was developed by BSC and HEREON to demonstrate the functionality
+of Autosubmit workflow manager. 
+
 # auto-schism2
 
 This project was created as a demo, for the `schism2.sif` singularity
